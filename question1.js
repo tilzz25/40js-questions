@@ -1,4 +1,4 @@
-// Question 1: What is JavaScript, and how does it differ from HTML and CSS?
+//1) What is JavaScript, and how does it differ from HTML and CSS?
 
 
 // JavaScript is a scripting language used to create interactive web applications.
